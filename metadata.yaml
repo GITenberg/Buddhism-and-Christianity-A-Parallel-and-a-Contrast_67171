@@ -1,0 +1,26 @@
+_repo: Buddhism-and-Christianity-A-Parallel-and-a-Contrast_67171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Archibald
+    gutenberg_agent_id: '54145'
+    url: http://www.gutenberg.org/2009/agents/54145
+description: ''
+gutenberg_issued: '2022-01-15'
+identifiers:
+  gutenberg: '67171'
+language: en
+pgterms:marc905: 20130927141404scott
+pgterms:marc906: '1890'
+pgterms:marc907: UK
+production_note: Heiko Evermann, David King, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: UK :David Douglas,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Buddhism and Christianity: A Parallel and a Contrast'
+url: http://www.gutenberg.org/ebooks/67171
